@@ -18,7 +18,7 @@ suggestion) to actually matter.
 | File | What it does |
 |---|---|
 | [`notebooks/purchase_intention_classification.ipynb`](notebooks/purchase_intention_classification.ipynb) | Full pipeline: EDA, correlation and multicollinearity checks, encoding, three models trained and timed, evaluation beyond accuracy, 5-fold cross-validation, and feature importance. |
-| [`reports/algorithm_selection_rationale.md`](reports/algorithm_selection_rationale.md) | Why compare all three algorithms rather than pick one upfront: a structured comparison across interpretability, compute cost, scaling requirements, and business fit — plus the POPIA and accountability considerations of using session data for targeting. |
+| [`reports/algorithm_selection_rationale.md`](reports/algorithm_selection_rationale.md) | Why compare all three algorithms rather than pick one upfront: a structured comparison across interpretability, compute cost, scaling requirements, and business fit plus the POPIA and accountability considerations of using session data for targeting. |
 | [`reports/interpretation_and_reflection.md`](reports/interpretation_and_reflection.md) | Business interpretation of the results, the final model recommendation, and an honest reflection on mistakes caught along the way. |
 | [`data/`](data) | The Online Shoppers Purchasing Intention dataset (UCI ML Repository) — 12,330 sessions, 18 features, no missing values. |
 
