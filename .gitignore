@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+*-checkpoint.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# OS junk
+Thumbs.db
